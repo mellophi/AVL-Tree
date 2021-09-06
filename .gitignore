@@ -5,10 +5,6 @@
 CMakeCache.txt
 *.cmake
 *.docx
-<<<<<<< HEAD
-*.txt
 *.zip
-=======
->>>>>>> c19fb668fd777fcf9fc60964cf912f751411fc45
 *.tmp
 build
